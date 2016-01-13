@@ -5,5 +5,5 @@ Git tracks changes of files.
 Great!
 Stupid boss!
 
-Creating a new branch is quick & simple.
+Creating a new branch is quick & simple and easy.
 
